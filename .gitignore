@@ -1,0 +1,30 @@
+# Java
+target/
+**/target/
+*.class
+
+# React
+node_modules/
+**/node_modules/
+dist/
+build/
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+# Local backups
+*.backup

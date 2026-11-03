@@ -1,0 +1,13 @@
+﻿AI RAG Test Document
+
+Our application is called RAG Backend.
+
+The application uses Java 21, Spring Boot, Spring AI, PostgreSQL, PGVector, and Ollama.
+
+The local chat model is Qwen3 4B.
+
+The local embedding model is nomic-embed-text.
+
+The purpose of this document is to test document upload, text extraction, chunking, embeddings, and vector storage.
+
+Rishabh is building this application as a document question-answering system.
